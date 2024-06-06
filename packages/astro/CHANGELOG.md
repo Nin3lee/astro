@@ -1,5 +1,11 @@
 # astro
 
+## 4.10.1
+
+### Patch Changes
+
+- [#11198](https://github.com/withastro/astro/pull/11198) [`8b9a499`](https://github.com/withastro/astro/commit/8b9a499d3733e9d0fc6a0bd067ece19bd36f4726) Thanks [@florian-lefebvre](https://github.com/florian-lefebvre)! - Fixes a case where `astro:env` `getSecret` would not retrieve environment variables properly in dev and build modes
+
 ## 4.10.0
 
 ### Minor Changes
